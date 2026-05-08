@@ -1,6 +1,6 @@
 # All Restaurants in Cleveland (Metro), Ohio, US
 
-> Free BeamStation sample export with 445 rows and masked direct-contact fields.
+> Free BeamStation sample export with 470 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `571649` |
 | Location | Cleveland, OH |
 | Category | Restaurants |
-| Full dataset size | 4,456 records |
-| Free sample size | 445 records (9.99%) |
-| Last export | 2026-04-29T01:33:29.233015+00:00 |
+| Full dataset size | 4,709 records |
+| Free sample size | 470 records (9.98%) |
+| Last export | 2026-05-08T10:32:36.878859+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-cleveland-metro-ohio-us-sample-571649/releases/download/sample-latest/beamstation_571649_restaurants-us-clevelandoh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
