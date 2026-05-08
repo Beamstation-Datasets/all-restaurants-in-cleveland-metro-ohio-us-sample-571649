@@ -1,12 +1,12 @@
 {
-  "export_job_id": "81b5e8a0-2775-4848-8b03-f9d1f93833ef",
+  "export_job_id": "9330a421-3298-41cc-8c49-55164324fbc9",
   "id_short": 571649,
-  "published_at": "2026-04-29T07:44:44Z",
+  "published_at": "2026-05-08T19:07:45Z",
   "repo_name": "all-restaurants-in-cleveland-metro-ohio-us-sample-571649",
   "sample_asset_name": "beamstation_571649_restaurants-us-clevelandoh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/571649/beamstation_571649_restaurants-us-clevelandoh_SAMPLE_DIST.csv",
-  "sample_records": 445,
-  "sample_sha256": "68545ef664a9da074594d9a205efe842b6e04cf4675118cdebb51bb5f2268e07",
-  "sample_size_bytes": 1528823,
-  "total_records": 4456
+  "sample_records": 470,
+  "sample_sha256": "511662f97ade28be0043bffa01bed9fd25062147b462cf5be2a5b129def1d91f",
+  "sample_size_bytes": 1614727,
+  "total_records": 4709
 }
